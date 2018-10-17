@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: Theinhardt;
+    src: url(/assets/fonts/Theinhardt-Bold.eot);
+    src: url(/assets/fonts/Theinhardt-Bold.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/Theinhardt-Bold.woff) format("woff"),url(/assets/fonts/Theinhardt-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+  }
+  
+  @font-face {
+    font-family: Theinhardt;
+    src: url(/assets/fonts/Theinhardt-Medium.eot);
+    src: url(/assets/fonts/Theinhardt-Medium.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/Theinhardt-Medium.woff) format("woff"),url(/assets/fonts/Theinhardt-Medium.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+  }
+  
+  @font-face {
+    font-family: Theinhardt;
+    src: url(/assets/fonts/Theinhardt-Light.eot);
+    src: url(/assets/fonts/Theinhardt-Light.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/Theinhardt-Light.woff) format("woff"),url(/assets/fonts/Theinhardt-Light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal
+  }
+  
+  @font-face {
+    font-family: Akkurat Mono;
+    src: url(/assets/fonts/akkurat-mono.eot);
+    src: url(/assets/fonts/akkurat-mono.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/akkurat-mono.woff) format("woff"),url(/assets/fonts/akkurat-mono.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+  }
